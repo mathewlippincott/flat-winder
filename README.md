@@ -8,6 +8,8 @@ Line can also be thrown off the winder rapidly:
 
 The winder is 450mm (18") long and can hold about 500' of 150lb dacron line (150m of 70kg line).
 
+[Watch a video of it in action](https://www.headfullofair.com/post/flat-line-winder/)
+
 # how to make the winder
 
 ![winder2-sm.svg](images/winder2-sm.svg)
