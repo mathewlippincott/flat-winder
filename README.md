@@ -40,7 +40,7 @@ See more of my kite and balloon projects at [headfullofair.com](https://headfull
 
 * Replicate the winder and document your use of it. Please [reach out](https://headfullofair.com/contact) and share.
 * Fork this repository and improve the design or documentation.
-* Add or comment on [issues in this repository](/issues).
+* Add or comment on [issues in this repository](issues).
 * [show me](https://headfullofair.com/contact) kite and balloon stuff.
 
 All contributors are asked to abide by the [code of conduct](codeofconduct.md).
