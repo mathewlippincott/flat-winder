@@ -1,8 +1,15 @@
 # ∞ flat line winder ∞
 ![18" winder with string](images/string.png) 
 
-This kite line winder is designed for a figure eight winding technique. Winding line in a figure eight ∞ folds the line so that there is no twist. 
+This kite line winder is designed for a figure eight winding technique. Winding line in a figure eight ∞ folds the line so that there is no twist. Find more media on [headfullofair.com/tags/flat-winder](headfullofair.com/tags/flat-winder).
+
+# using the winder
+
+![winding line](images/windingstring.png)
+
 Line can also be thrown off the winder rapidly:
+
+![releasing line](images/releasingstring.png)
 
 ![throwing line fof the winder](images/winder-sm.gif)
 
@@ -18,9 +25,8 @@ Download the [SVG](winder2.svg) or [DXF](winder2.dxf) file in the root directory
 
 Drill out the pink drill holes with a 1" (25mm) hole saw or drill bit, and finish the cuts with hand or power tools. Or use a CNC mill.
 
-
+1 unit = 1 mm for SVGs. The design can be converted to convenient inch measurements by assuming 1" = 25mm.
  
- 1 unit = 1 mm for SVGs. The design can be converted to convenient inch measurements by assuming 1" = 25mm.
 
 # about this design
 
